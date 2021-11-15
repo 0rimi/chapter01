@@ -23,6 +23,7 @@ public class Ex05 {
 		System.out.println("당신의 이름은 "+name+" 나이는 "+age+" 키는 "+height+"cm 입니다.");
 		
 		System.out.println("Git테스트");
+		System.out.println("name테스트");
 		
 		sc.close();
 	}
