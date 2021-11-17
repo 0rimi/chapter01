@@ -3,6 +3,8 @@ package com.javaex.ex02;
 public class Ex01 {
 
 	public static void main(String[] args) {
+
+		//스캐너 연습
 		
 		System.out.print("안녕");//줄바꿈안함
 		System.out.println("하세요");//줄바꿈됨
