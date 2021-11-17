@@ -8,7 +8,7 @@ public class Ex05 {
 			for(int i=1; i<10; i++){
 				System.out.println(dan+" * "+i+" = "+(dan*i));
 			}
-			System.out.println("\n");
+			System.out.println(" ");
 		}
 	}
 

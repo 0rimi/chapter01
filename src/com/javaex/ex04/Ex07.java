@@ -9,6 +9,13 @@ public class Ex07 {
 				System.out.println(g);
 				g=g+"*";
 			}
+			
+		for(int y=0; y<6; y++) {
+			for(int x=0; x<=y; x++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
 		
 	}
 }
