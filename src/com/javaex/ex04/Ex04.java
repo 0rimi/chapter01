@@ -14,8 +14,6 @@ public class Ex04 {
 			 System.out.println(i+" 까지의 합은 "+num);
 			}
 			
-			
-			
 		sc.close();
 		
 	}
