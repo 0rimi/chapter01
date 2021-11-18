@@ -15,7 +15,7 @@ public class Ex12 {
 		int num;
 		
 		do {
-			num ㄴ= sc. nextInt();
+			num = sc. nextInt();
 			sum = sum+num;
 			System.out.println("합계 : "+sum);
 		}
